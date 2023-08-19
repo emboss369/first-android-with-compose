@@ -1,2 +1,2 @@
 # first-android-with-compose
-Composeで始めるはじめてのAndroidプログラミンg
+Composeで始めるはじめてのAndroidプログラミング
